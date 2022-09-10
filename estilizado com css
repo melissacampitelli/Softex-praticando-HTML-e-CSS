@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>conheça o Recife</title>
+    
+</head>
+
+<style> 
+.titulo{
+    margin-left: 20%;
+    color: green;
+    font-size: 30px;
+    margin-top: 10;
+    padding-left: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+body{
+    background-color: rgb(208, 232, 238);
+    background-image: url(../softex.html/abstract-watercolor-pastel-background_87374-139.jpg);
+    background-image: cover;
+  
+}
+
+body::before {
+   
+    content: "";
+    width: 99%;
+    height: 250%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+}
+
+.texto{
+    margin-top: 4%;
+    margin-left: 15%;
+    font-size: 20;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.Recife{
+    margin-top: 2%;
+    margin-left: 25%;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+.marco{
+    margin-top: 2%;
+    margin-left: 25%;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+.footer{
+margin-top: 10%;
+}
+
+
+
+</style>
+<div class="titulo ">
+<h1>Marco Zero do Recife</h1>
+<body>
+
+</div>
+
+    
+        <a href="#">
+            <img src="recife.jpg" class="Recife">
+        </a>
+ 
+
+
+<div class=" texto">
+    <p> O marco zero, fica localizado <b>no Recife</b> que é considerado a Veneza brasileira e isso se dá por sua beleza e também por ser cortado por águas</p>
+<p> Se você esta no <b>Recife</b> você não pode deixar de vistiar o marco Zero</p>
+<section> <b>confira: </b></section>
+<ol><li> Uma das principais atrações são as esculturas de Brennand</li>
+    <li> também tem a rua do bom Jesus, que é considerada uma das ruas mais bonitas do mundo</li>
+    <li> é um dos passeios preferidos dos recifenses</li>
+<p>confira clicando para conhecer o Recife melhor</p><a href= "file:///C:/Users/Dell/Desktop/projetos/softex.html/nova.html">clique aqui</a>
+</ol>
+</div>
+
+    
+        <a href="#">
+            <img src="marco-zero-recife.jpg" class = "marco" >
+        </a>
+
+       <div class="footer">
+
+      <footer> Feito por melissa campitelli para softex</footer>
+      </div>
+  
+
+    
+</body>
+</html>
